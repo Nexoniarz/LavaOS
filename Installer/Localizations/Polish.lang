@@ -19,4 +19,5 @@
 	creating = "Tworzenie profilu użytkownika ...",
 	installing = "Instalowanie",
 	installed = "MineOS zostało zainstalowane. Ciesz się!",
-	reboot = "Uruchom ponownie komputer"
+	reboot = "Uruchom ponownie komputer",
+}
