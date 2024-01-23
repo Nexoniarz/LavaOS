@@ -1,6 +1,6 @@
 
 local
-	stringsMineOSEFI,
+	stringsLavaOSEFI,
 	stringsChangeLabel,
 	stringsKeyDown,
 	stringsComponentAdded,
@@ -38,7 +38,7 @@ local
 	input,
 	internetExecute =
 
-	"MineOS EFI",
+	"LavaOS EFI",
 	"Change label",
 	"key_down",
 	"component_added",
@@ -158,7 +158,7 @@ function(statusText, needWait)
 		lines[#lines + 1] = line:gsub("\t", "  ")
 	end
 	
-	local y = drawTitle(#lines, stringsMineOSEFI)
+	local y = drawTitle(#lines, stringsLavaOSEFI)
 	
 	for i = 1, #lines do
 		drawCentrizedText(y, colorsText, lines[i])
@@ -458,7 +458,7 @@ while uptime() < deadline do
 			end))
 		end
 
-		menu(stringsMineOSEFI, utilities)
+		menu(stringsLavaOSEFI, utilities)
 	end
 end
 
