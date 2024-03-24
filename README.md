@@ -14,7 +14,7 @@ Copy This to your's OpenComputer PC
 
 or this
 
-	pastebin get V8mHsTU0
+	pastebin run V8mHsTU0
 
 ## How to create applications and work with API?
 
