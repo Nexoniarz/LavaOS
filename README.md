@@ -12,6 +12,10 @@ Copy This to your's OpenComputer PC
 
 	wget -f https://raw.githubusercontent.com/Nexoniarz/LavaOS/master/Installer/BIOS.lua /tmp/bios.lua && flash -q /tmp/bios.lua && reboot
 
+or this
+
+	pastebin get V8mHsTU0
+
 ## How to create applications and work with API?
 
 [Wiki](https://github.com/IgorTimofeev/MineOS/wiki)
