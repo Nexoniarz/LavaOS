@@ -2,12 +2,12 @@
 
 このOSはまだに開発と持っているbugs
 
-## ごろ
+## くぐら
 
 LavaOS はに基づいている。MineOS
-## どうインスタル?
+## どうとインスタル?
 
-これをコピーするあなたのopencomputer PC
+このあなたのopencomputer PCをコピーす
 
 	wget -f https://raw.githubusercontent.com/Nexoniarz/LavaOS/master/Installer/BIOS.lua /tmp/bios.lua && flash -q /tmp/bios.lua && reboot
 
@@ -16,7 +16,3 @@ LavaOS はに基づいている。MineOS
 
 英語
 [Wiki](https://github.com/IgorTimofeev/MineOS/wiki)
-
-すみませんため私の悪い日本語。。。
-私はポーランド人で、ない日本ににすんでいます
-私はまだ日本語を勉強しています。
