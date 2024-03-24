@@ -1,4 +1,4 @@
-English | [日本語)](https://github.com/Nexoniarz/LavaOS/blob/master/README-jp_JP.md)
+English | [日本語](https://github.com/Nexoniarz/LavaOS/blob/master/README-jp_JP.md)
 
 This Os is still in Development
 
