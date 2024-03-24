@@ -5,14 +5,14 @@
 ## くぐら
 
 LavaOS はに基づいている。MineOS
-## どうとインスタル?
+## インスタルとどうですか?
 
-このあなたのopencomputer PCをコピーす
+このあなたのopencomputer PCをコピーます
 
 	wget -f https://raw.githubusercontent.com/Nexoniarz/LavaOS/master/Installer/BIOS.lua /tmp/bios.lua && flash -q /tmp/bios.lua && reboot
 
 
 ## どう アプリケーションを作成し API?
 
-英語
+英語（English)
 [Wiki](https://github.com/IgorTimofeev/MineOS/wiki)
