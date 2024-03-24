@@ -1,4 +1,4 @@
-日本語 | [English)](https://github.com/Nexoniarz/LavaOS/blob/master/README.md) 
+日本語 | [English](https://github.com/Nexoniarz/LavaOS/blob/master/README.md) 
 
 このOSはまだに開発と持っているbugs
 
