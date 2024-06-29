@@ -9,7 +9,8 @@ LavaOS はに基づいている。MineOS
 
 このあなたのopencomputer PCをコピーます
 
-	wget -f https://raw.githubusercontent.com/Nexoniarz/LavaOS/master/Installer/BIOS.lua /tmp/bios.lua && flash -q /tmp/bios.lua && reboot
+
+	wget -f https://raw.githubusercontent.com/Nexoniarz/LavaOS/master/Installer/OpenOS.lua /tmp/installer.lua && /tmp/installer.lua
 
 
 ## どう アプリケーションを作成し API?
