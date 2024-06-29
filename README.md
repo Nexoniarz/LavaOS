@@ -10,11 +10,7 @@ LavaOS is based on MineOS
 
 Copy This to your's OpenComputer PC
 
-	wget -f https://raw.githubusercontent.com/Nexoniarz/LavaOS/master/Installer/BIOS.lua /tmp/bios.lua && flash -q /tmp/bios.lua && reboot
-
-or this
-
-	pastebin run V8mHsTU0
+	wget -f https://raw.githubusercontent.com/Nexoniarz/LavaOS/master/Installer/OpenOS.lua /tmp/installer.lua && /tmp/installer.lua
 
 ## How to create applications and work with API?
 
